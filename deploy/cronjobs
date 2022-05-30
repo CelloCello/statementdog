@@ -1,0 +1,2 @@
+# m h  dom mon dow   command
+0   23      *       *       *       (cd /app && /root/.pyenv/shims/python app.py >> ./logs/app.log 2>&1)

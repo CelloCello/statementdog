@@ -1,0 +1,6 @@
+requests==2.27.1
+pyquery==1.4.3
+python-dotenv==0.20.0
+cloudstorage==0.11.0
+cloudstorage[local]
+cloudstorage[amazon]
